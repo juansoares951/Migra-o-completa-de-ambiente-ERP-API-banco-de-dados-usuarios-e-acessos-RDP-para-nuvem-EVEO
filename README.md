@@ -13,7 +13,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Backup do banco realizado via IBExpert, gerando arquivo `.fbk`.
 - Arquivo compactado em `.rar` para envio à nuvem.
 
-![Backup via IBExpert](images/backup_gerando_fbk_ibexpert.jpg)
+![Backup via IBExpert](backup_gerando_fbk_ibexpert.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Arquivo `.fbk` transferido para o servidor EVEO.
 - Descompactado e restaurado para `.fdb` com sucesso.
 
-![Restauração do Banco de Dados](images/estrutura_arquivos_fdb.jpg)
+![Restauração do Banco de Dados](estrutura_arquivos_fdb.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Atualizados endpoints e variáveis de ambiente conforme a nova estrutura.
 - Testes realizados para garantir sincronização entre sistema e aplicativo.
 
-![API Configurada](images/API_configurada.jpg)
+![API Configurada](API_configurada.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Criado atalho personalizado na área de trabalho dos clientes para acesso via RDP.
 - A experiência de uso se manteve familiar para o usuário final.
 
-![Atalho de Acesso Remoto](images/atalho_acesso_remoto.jpg)
+![Atalho de Acesso Remoto](atalho_acesso_remoto.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Acesso ao sistema testado e validado no novo ambiente.
 - Nenhuma mudança na interface do sistema ERP.
 
-![Tela de Login ERP](images/login_apos_acessar_atalho.jpg)
+![Tela de Login ERP](login_apos_acessar_atalho.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Instalado e configurado programa de espelhamento para backups a cada 10 minutos.
 - Sincronização em tempo real entre dados locais e backup seguro.
 
-![Backup Automático Mirror](images/mirror_configurado_backup_automatico.PNG)
+![Backup Automático Mirror](mirror_configurado_backup_automatico.PNG)
 
 ---
 
