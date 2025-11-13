@@ -31,7 +31,7 @@ Este projeto documenta o processo de migração de um ambiente ERP hospedado em 
 - Caminhos do banco e diretórios ajustados no sistema.
 - Diretórios mapeados para o novo ambiente em nuvem.
 
-![Configuração de Caminhos](configuracao_de_caminhos.png)
+![Configuração de Caminhos](configuracao_de_caminhos.PNG)
 
 ---
 
