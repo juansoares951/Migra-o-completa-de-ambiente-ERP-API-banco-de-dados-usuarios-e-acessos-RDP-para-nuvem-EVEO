@@ -1,6 +1,6 @@
-# Migração completa de ambiente ERP, API, banco de dados, usuarios e acessos RDP para nuvem EVEO
-Projeto de migração de ERP local para a nuvem EVEO, incluindo API, banco Firebird e configuração de acessos via RDP, com backup automatizado e alta disponibilidade.
-# ☁️ Projeto de Migração de ERP para a Nuvem (EVEO)
+# Migração completa de ambiente ERP, API, banco de dados, usuarios e acessos RDP para nuvem EVEO via RDP
+Projeto de migração de ERP local para a nuvem EVEO via RDP, incluindo API, banco Firebird e configuração de acessos via RDP, com backup automatizado e alta disponibilidade.
+# ☁️ Projeto de Migração de ERP para a Nuvem (EVEO) via RDP
 
 Este projeto documenta o processo de migração de um ambiente ERP hospedado em servidor local para uma infraestrutura em nuvem (EVEO), com foco em estabilidade, segurança e disponibilidade. A experiência do usuário final foi mantida, com o sistema operando sem mudanças visuais ou estruturais.
 
